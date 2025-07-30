@@ -1,2 +1,0 @@
-Suppression du mauvais fichier Procfile.txt
-web: python app.py
